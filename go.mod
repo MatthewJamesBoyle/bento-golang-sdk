@@ -1,3 +1,3 @@
-module github.com/bentonow/bento-golang-sdk
+module github.com/MatthewJamesBoyle/bento-golang-sdk
 
 go 1.21
